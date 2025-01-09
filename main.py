@@ -1,4 +1,4 @@
 def greet(name):
-    return f"Hey, {name}"
+    return f"Hello, {name}"
 
 print(greet("John"))
